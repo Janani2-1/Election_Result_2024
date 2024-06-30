@@ -28,7 +28,7 @@ The dataset used for this analysis is `election_result_2024.csv`, which contains
 1. Clone this repository:
 
 ```sh
-https://github.com/Janani2-1/Elections_Results_2024/blob/main/README.md
+https://github.com/Janani2-1/Elections_Result_2024/blob/main/README.md
 ```
 
 2. Navigate to the project directory:
@@ -39,7 +39,7 @@ https://github.com/Janani2-1/Elections_Results_2024/blob/main/README.md
 4. Run the Jupyter notebook:
 
 ```sh
-jupyter notebook Election.ipynb
+jupyter notebook Election_result_2024.ipynb
 ```
 ## Analysis Overview
 ### Import Libraries
